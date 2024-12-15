@@ -1,8 +1,8 @@
-# BIE Library
+# BIE Library: Bit Interpretation and Editing
 
 ## About
 
-BIE is a lightweight, header-only C library for efficient bit manipulation. It provides simple macros to check, get, set, clear, and toggle individual bits, bit ranges, and masks.
+**bIE** is a lightweight, header-only C library for efficient bit manipulation. It provides simple macros to check, get, set, clear, and toggle individual bits, bit ranges, and masks.
 
 ## Features
 
